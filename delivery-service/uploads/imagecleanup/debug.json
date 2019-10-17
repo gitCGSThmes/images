@@ -1,0 +1,17 @@
+[0.0015] Info: WP_Query results written to log
+[0.0003] Registered sizes: ["thumbnail","medium","medium_large","large","img_348_201","full"]
+[0.0004] Meta indexed so far: 1 / 56
+[0.0013] Sample meta:
+{"width":640,"height":428,"file":"2008\/09\/package-1511683_640.jpg","sizes":{"thumbnail":{"file":"package-1511683_640-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"package-1511683_640-300x201.jpg","width":300,"height":201,"mime-type":"image\/jpeg"},"img_348_201":{"file":"package-1511683_640-348x201.jpg","width":348,"height":201,"mime-type":"image\/jpeg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
+[0.0396] Meta indexed so far: 56 / 56
+[0.0426] Info: Valid and Invalid meta results written to log
+[0.0007] Info: Loaded attachments to memory [28 mb]
+[0.0029] Info: 158 Images found [28 mb]
+[0.0069] Info: 1 Invalid images found [28 mb]
+[0.0095] Info: Retrieved attachment images from DB [28 mb]
+[0.0246] Info: Backup meta results written to log [28 mb]
+[0.0001] Posts checked for used images 1/8
+[0.0013] Info: Invalid post image meta results written to log
+Warning: skipping script index because of too many image files
+[0.0002] Warning: skipping attachment index because of too many image files
+[0.0017] Info: Unreferenced image file results written to log
