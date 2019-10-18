@@ -1,21 +1,19 @@
-[0.0023] Info: WP_Query results written to log
-[0.0002] Posts checked for used images 1/8
-[0.0028] Info: Invalid post image meta results written to log
-[0.0002] Registered sizes: ["thumbnail","medium","medium_large","large","img_348_201","full"]
-[0.0003] Meta indexed so far: 1 / 103
-[0.0012] Sample meta:
+[0.0039] Info: WP_Query results written to log
+[0.0014] Registered sizes: ["thumbnail","medium","medium_large","large","img_348_201","full"]
+[0.0015] Meta indexed so far: 1 / 103
+[0.0191] Sample meta:
 {"width":640,"height":405,"file":"2019\/09\/coffee-983955_640-1.jpg","sizes":{"thumbnail":{"file":"coffee-983955_640-1-150x150.jpg","width":150,"height":150,"mime-type":"image\/jpeg"},"medium":{"file":"coffee-983955_640-1-300x190.jpg","width":300,"height":190,"mime-type":"image\/jpeg"},"img_348_201":{"file":"coffee-983955_640-1-348x201.jpg","width":348,"height":201,"mime-type":"image\/jpeg"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
-[0.0739] Meta indexed so far: 103 / 103
-Warning: skipping script index because of too many image files
-[0.0003] Meta indexed so far: 101 / 103
-[0.0020] Meta indexed so far: 103 / 103
-[0.0049] Info: Valid and Invalid meta results written to log
-[0.0028] Warning: skipping attachment index because of too many image files
-[0.0042] Info: Unreferenced image file results written to log
-[0.0014] Info: Loaded attachments to memory [28 mb]
-[0.0065] Info: 478 Images found [28 mb]
-[0.0350] Info: 11 Invalid images found [28 mb]
-[0.0402] Info: Retrieved attachment images from DB [28 mb]
-[0.0817] Info: Backup meta results written to log [28 mb]
-[0.0000] Uknown error: Please see returned value below
-
+[0.5795] Meta indexed so far: 103 / 103
+[0.0004] Meta indexed so far: 101 / 103
+[0.0031] Meta indexed so far: 103 / 103
+[0.0074] Info: Valid and Invalid meta results written to log
+[0.0027] Info: Loaded attachments to memory [30 mb]
+[0.0108] Info: 478 Images found [30 mb]
+[0.0387] Info: 11 Invalid images found [30 mb]
+[0.0444] Info: Retrieved attachment images from DB [30 mb]
+[0.0889] Info: Backup meta results written to log [30 mb]
+[0.0001] Posts checked for used images 1/4
+[0.0028] Info: Invalid post image meta results written to log
+[0.0095] Info: Invalid script image meta results written to log
+[0.0147] Info: Invalid referenced image meta results written to log
+[0.0191] Info: Unreferenced image file results written to log

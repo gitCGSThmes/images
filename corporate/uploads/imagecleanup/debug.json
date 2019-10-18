@@ -1,17 +1,17 @@
-[0.0046] Info: WP_Query results written to log
-[0.0004] Registered sizes: ["thumbnail","medium","medium_large","large","img_348_201","full"]
-[0.0005] Meta indexed so far: 1 / 51
-[0.0014] Sample meta:
+[0.0015] Info: WP_Query results written to log
+[0.0002] Registered sizes: ["thumbnail","medium","medium_large","large","img_348_201","full"]
+[0.0003] Meta indexed so far: 1 / 51
+[0.0012] Sample meta:
 {"width":1200,"height":800,"file":"2019\/09\/placeholder.png","sizes":{"thumbnail":{"file":"placeholder-150x150.png","width":150,"height":150,"mime-type":"image\/png"},"medium":{"file":"placeholder-300x200.png","width":300,"height":200,"mime-type":"image\/png"},"medium_large":{"file":"placeholder-768x512.png","width":768,"height":512,"mime-type":"image\/png"},"large":{"file":"placeholder-1024x683.png","width":1024,"height":683,"mime-type":"image\/png"},"img_348_201":{"file":"placeholder-348x201.png","width":348,"height":201,"mime-type":"image\/png"}},"image_meta":{"aperture":"0","credit":"","camera":"","caption":"","created_timestamp":"0","copyright":"","focal_length":"0","iso":"0","shutter_speed":"0","title":"","orientation":"0","keywords":[]}}
-[0.0468] Meta indexed so far: 51 / 51
-[0.0515] Info: Valid and Invalid meta results written to log
-[0.0007] Info: Loaded attachments to memory [28 mb]
-[0.0037] Info: 186 Images found [28 mb]
-[0.0086] Info: 11 Invalid images found [28 mb]
-[0.0116] Info: Retrieved attachment images from DB [28 mb]
-[0.0275] Info: Backup meta results written to log [28 mb]
-[0.0002] Posts checked for used images 1/6
-[0.0020] Info: Invalid post image meta results written to log
-Warning: skipping script index because of too many image files
-[0.0004] Warning: skipping attachment index because of too many image files
-[0.0005] Info: Unreferenced image file results written to log
+[0.1030] Meta indexed so far: 51 / 51
+[0.1078] Info: Valid and Invalid meta results written to log
+[0.0007] Info: Loaded attachments to memory [30 mb]
+[0.0031] Info: 186 Images found [30 mb]
+[0.0077] Info: 11 Invalid images found [30 mb]
+[0.0100] Info: Retrieved attachment images from DB [30 mb]
+[0.0234] Info: Backup meta results written to log [30 mb]
+[0.0002] Posts checked for used images 1/5
+[0.0034] Info: Invalid post image meta results written to log
+[0.0150] Info: Invalid script image meta results written to log
+[0.0038] Info: Invalid referenced image meta results written to log
+[0.0055] Info: Unreferenced image file results written to log
