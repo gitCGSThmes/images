@@ -1,0 +1,156 @@
+<!DOCTYPE html>
+<html lang="en-US">
+<head>
+	<!--[if IE]>
+	<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1" /><![endif]-->
+	<meta charset="UTF-8" />
+	<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
+	<title>Page not found &#8211; Therapist</title>
+<meta name='robots' content='noindex,follow' />
+<link rel='dns-prefetch' href='//fonts.googleapis.com' />
+<link rel='dns-prefetch' href='//cdnjs.cloudflare.com' />
+<link rel='dns-prefetch' href='//s.w.org' />
+<link rel="alternate" type="application/rss+xml" title="Therapist &raquo; Feed" href="http://localhost/demo-therapist/feed/" />
+<link rel="alternate" type="application/rss+xml" title="Therapist &raquo; Comments Feed" href="http://localhost/demo-therapist/comments/feed/" />
+		<script type="text/javascript">
+			window._wpemojiSettings = {"baseUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/72x72\/","ext":".png","svgUrl":"https:\/\/s.w.org\/images\/core\/emoji\/12.0.0-1\/svg\/","svgExt":".svg","source":{"concatemoji":"http:\/\/localhost\/demo-therapist\/wp-includes\/js\/wp-emoji-release.min.js?ver=5.2.4"}};
+			!function(a,b,c){function d(a,b){var c=String.fromCharCode;l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,a),0,0);var d=k.toDataURL();l.clearRect(0,0,k.width,k.height),l.fillText(c.apply(this,b),0,0);var e=k.toDataURL();return d===e}function e(a){var b;if(!l||!l.fillText)return!1;switch(l.textBaseline="top",l.font="600 32px Arial",a){case"flag":return!(b=d([55356,56826,55356,56819],[55356,56826,8203,55356,56819]))&&(b=d([55356,57332,56128,56423,56128,56418,56128,56421,56128,56430,56128,56423,56128,56447],[55356,57332,8203,56128,56423,8203,56128,56418,8203,56128,56421,8203,56128,56430,8203,56128,56423,8203,56128,56447]),!b);case"emoji":return b=d([55357,56424,55356,57342,8205,55358,56605,8205,55357,56424,55356,57340],[55357,56424,55356,57342,8203,55358,56605,8203,55357,56424,55356,57340]),!b}return!1}function f(a){var c=b.createElement("script");c.src=a,c.defer=c.type="text/javascript",b.getElementsByTagName("head")[0].appendChild(c)}var g,h,i,j,k=b.createElement("canvas"),l=k.getContext&&k.getContext("2d");for(j=Array("flag","emoji"),c.supports={everything:!0,everythingExceptFlag:!0},i=0;i<j.length;i++)c.supports[j[i]]=e(j[i]),c.supports.everything=c.supports.everything&&c.supports[j[i]],"flag"!==j[i]&&(c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&c.supports[j[i]]);c.supports.everythingExceptFlag=c.supports.everythingExceptFlag&&!c.supports.flag,c.DOMReady=!1,c.readyCallback=function(){c.DOMReady=!0},c.supports.everything||(h=function(){c.readyCallback()},b.addEventListener?(b.addEventListener("DOMContentLoaded",h,!1),a.addEventListener("load",h,!1)):(a.attachEvent("onload",h),b.attachEvent("onreadystatechange",function(){"complete"===b.readyState&&c.readyCallback()})),g=c.source||{},g.concatemoji?f(g.concatemoji):g.wpemoji&&g.twemoji&&(f(g.twemoji),f(g.wpemoji)))}(window,document,window._wpemojiSettings);
+		</script>
+		<style type="text/css">
+img.wp-smiley,
+img.emoji {
+	display: inline !important;
+	border: none !important;
+	box-shadow: none !important;
+	height: 1em !important;
+	width: 1em !important;
+	margin: 0 .07em !important;
+	vertical-align: -0.1em !important;
+	background: none !important;
+	padding: 0 !important;
+}
+</style>
+	<link rel='stylesheet' id='wp-block-library-css'  href='http://localhost/demo-therapist/wp-includes/css/dist/block-library/style.min.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs-lite-fonts-css'  href='https://fonts.googleapis.com/css?family=Montserrat%3A400%2C500%2C600%2C700%2C800%7COpen+Sans%3A400%2C600%2C700&#038;display=swap&#038;ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs-lite-fontawesome-css'  href='https://cdnjs.cloudflare.com/ajax/libs/font-awesome/4.7.0/css/font-awesome.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs_fashion_trend_style-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-fashion-trend/style.css?ver=5.2.4' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs_lite_style-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-lite/style.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs-lite-infinite-slider-style-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/css/infinite-slider.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs_lite_bxslider-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/css/jquery.bxslider.min.css?ver=1.0' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs-fashion-trend-fonts-css'  href='//fonts.googleapis.com/css?family=Open+Sans%3A400%2C600%2C700%2C800%7CPlayfair+Display%3A400%2C700%2C900%7CPoppins%3A400%2C500%2C600%2C700&#038;ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='bootstrap-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-fashion-trend/css/bootstrap.min.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='cgs-fashion-trend-style-css'  href='http://localhost/demo-therapist/wp-content/themes/cgs-lite/style.css?ver=1' type='text/css' media='all' />
+<link rel='stylesheet' id='newsletter-css'  href='http://localhost/demo-therapist/wp-content/plugins/newsletter/style.css?ver=6.2.2' type='text/css' media='all' />
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-includes/js/jquery/jquery.js?ver=1.12.4-wp'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-includes/js/jquery/jquery-migrate.min.js?ver=1.4.1'></script>
+<link rel='https://api.w.org/' href='http://localhost/demo-therapist/wp-json/' />
+<link rel="EditURI" type="application/rsd+xml" title="RSD" href="http://localhost/demo-therapist/xmlrpc.php?rsd" />
+<link rel="wlwmanifest" type="application/wlwmanifest+xml" href="http://localhost/demo-therapist/wp-includes/wlwmanifest.xml" /> 
+<meta name="generator" content="WordPress 5.2.4" />
+	<style>
+		.header-wrapper ul.menu{padding: 10px 0 0 0};	</style>
+			<style type="text/css">.recentcomments a{display:inline !important;padding:0 !important;margin:0 !important;}</style>
+				<style type="text/css" id="wp-custom-css">
+			.wrapper-2 .blurb h3{
+	text-align: center;
+}
+.wrapper-2 .blurb p{
+	text-align: center;
+}
+.latestblog-wrapper ul > li > ul {
+    margin-bottom: 25px;
+}		</style>
+		</head>
+<body class="error404">
+<div class="header-wrapper">
+    <a class="skip-link screen-reader-text" href="#skip_content">Skip to content</a>
+    <nav class="navbar navbar-expand-md navbar-light" role="navigation">
+        <div class="container">
+            <a class="navbar-brand logo" href="http://localhost/demo-therapist">
+				<h1>Therapist</h1><h2>Just another WordPress site</h2>            </a>
+            <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#cgsnavmenu" aria-controls="cgsnavmenu" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+			<div id="cgsnavmenu" class="collapse navbar-collapse"><ul id="menu-main-menu" class="navbar-nav ml-auto"><li id="menu-item-175" class="menu-item menu-item-type-post_type menu-item-object-page menu-item-home menu-item-175 nav-item"><a href="http://localhost/demo-therapist/" class="nav-link">Home</a></li>
+</ul></div>        </div>
+    </nav>
+</div>
+                        <div id="skip_content"></div>
+	<div class="main-content-wrapper home-content-wrapper">
+		<div class="container">
+			<div class="row">
+				<div class="col-xl-12">
+					<h5>Oops! That page couldn&#039;t be found</h5>
+                    <p>It looks like nothing was found at this location. Maybe try a search?</p>
+					<form method="get" class="searchform" action="http://localhost/demo-therapist/">
+    <input type="text" value="" placeholder="Search" name="s" class="search-field" />
+    <input type="submit" class="btn btn-primary search_submit" value="&raquo;" />
+</form>
+				</div>
+			</div>
+		</div>
+	</div>
+        <div class="footer-widgets">
+        <div class="container">
+            <div class="row">
+                <div class="col-xl-4">
+                    <div id="text-1" class="widget_box cgs_widget_box widget_text"><h3 class="side_title">About</h3>			<div class="textwidget"><p>Curabitur ac convallis nulla, a pharetra nunc. Fusce vel scelerisque justo. Donec quis tellus at diam ornare convallis. Proin sit amet mollis erat. Donec eu cursus eros. Ut eget scelerisque eros, non aliquet est.</p>
+</div>
+		</div>                </div>
+                <div class="col-xl-4">
+                    <div class="widget_box cgs_widget_box">
+                        <h3 class="side_title">Menu</h3>
+                        <div class="menu-footer-container">
+                            <div class="menu"><ul>
+<li class="page_item page-item-2"><a href="http://localhost/demo-therapist/">Home</a></li>
+<li class="page_item page-item-235"><a href="http://localhost/demo-therapist/newsletter/">Newsletter</a></li>
+</ul></div>
+                        </div>
+                    </div>
+                </div>
+                <div class="col-xl-4">
+                    <div id="newsletterwidget-1" class="widget_box cgs_widget_box widget_newsletterwidget"><h3 class="side_title">Newsletter</h3>Lorem ipsum dolor sit amet, consectetuer adipiscing elit. Curabitur quam augue<div class="tnp tnp-widget"><form method="post" action="http://localhost/demo-therapist/?na=s" onsubmit="return newsletter_check(this)">
+
+<input type="hidden" name="nlang" value="">
+<input type="hidden" name="nr" value="widget">
+<input type='hidden' name='nl[]' value='0'>
+<div class="tnp-field tnp-field-email"><label>Email</label><input class="tnp-email" type="email" name="ne" required></div>
+<div class="tnp-field tnp-field-button"><input class="tnp-submit" type="submit" value="Subscribe" >
+</div>
+</form>
+</div>
+</div>                </div>
+            </div>
+        </div>
+    </div>
+    <div class="footer-wrapper">
+	<div class="container">
+		<div class="row">
+			<div class="col-xl-8">
+				<div class="leftalign">
+					Copyright © 2019 <a href="/" >Lite Therapist</a>. Powered By <a href="https://wordpress.org/" target="_blank" >WordPress</a>.  Theme: Lite Therapist By <a href="https://www.cgsthemes.com/product/therapist/" target="_blank" >CGS Themes</a>.				</div>
+			</div>
+			<div class="col-xl-4">
+				<div class="rightalign"></div>
+			</div>
+		</div>
+	</div>
+</div>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/js/slick.js?ver=1'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/js/jquery.bxslider.min.js?ver=1'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/js/bootstrap4.masonry.min.js?ver=1'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/js/parallax.min.js?ver=1'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-lite/assets/js/themescript.js?ver=1'></script>
+<!--[if lt IE 9]>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-fashion-trend/js/html5shiv.min.js?ver=3.7.3'></script>
+<![endif]-->
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/themes/cgs-fashion-trend/js/bootstrap.bundle.min.js?ver=1'></script>
+<script type='text/javascript'>
+/* <![CDATA[ */
+var newsletter = {"messages":{"email_error":"Email address is not correct","name_error":"Name is required","surname_error":"Last name is required","profile_error":"A mandatory field is not filled in","privacy_error":"You must accept the privacy policy"},"profile_max":"20"};
+/* ]]> */
+</script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-content/plugins/newsletter/subscription/validate.js?ver=6.2.2'></script>
+<script type='text/javascript' src='http://localhost/demo-therapist/wp-includes/js/wp-embed.min.js?ver=5.2.4'></script>
+</body>
+</html>
