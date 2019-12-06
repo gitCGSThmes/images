@@ -1,0 +1,2 @@
+2019-12-05T12:12:00+00:00 CRITICAL Allowed memory size of 67108864 bytes exhausted (tried to allocate 308002 bytes) in /home/cgssitec/public_html/cgs-themes/free-themes/fashion-trend/wp-includes/class-requests.php on line 381
+
